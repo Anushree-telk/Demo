@@ -12,4 +12,5 @@ def calculate_factorial():
         print("The factorial of", num, "is", factorial)
 
 
-calculate_factorial()print("Program to find Factorial of a number")
+calculate_factorial()
+print("Program to find Factorial of a number")
