@@ -13,5 +13,4 @@ def calculate_factorial():
 
 
 calculate_factorial()
-print("Program to find Factorial of a number")
 
